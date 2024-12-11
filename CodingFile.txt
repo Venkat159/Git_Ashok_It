@@ -9,4 +9,5 @@ int main()
 -- Developer A submitted and pushed
    printf("The sum of a and b is: %d",c);
 ---> Merge Conflict-1
+---> Merge Conflict-2
 }
