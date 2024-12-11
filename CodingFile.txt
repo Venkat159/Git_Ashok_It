@@ -1,6 +1,7 @@
 #include<stdio.h>
 int main()
 {
+   -- Developer B modified the changes and trying to push
    int a=10;
    int b=20;
    int c;
