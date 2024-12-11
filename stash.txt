@@ -1,8 +1,0 @@
-This is the Existing code
-
-<<<<<<< Updated upstream
-2. Now I am working on story 2
-=======
-
-2. I started working on story1, My work is completed on story1.
->>>>>>> Stashed changes
