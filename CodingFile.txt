@@ -5,5 +5,6 @@ int main()
    int b=20;
    int c;
    c = a + b;
+-- Developer A submitted and pushed
    printf("The sum of a and b is: %d",c);
 }
